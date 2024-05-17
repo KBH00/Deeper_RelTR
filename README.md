@@ -5,7 +5,7 @@ LLMETA project is for metadata extraction from text (research paper), also in im
 But, as you can see, we didn't extract any metadata like file size or things like that we normally know about.
 
 We propose a new metadata for image as scene graph, which can use various research field.
-But, our RelTR-based model can classify human emotions, age, races and also various breeds based on ImageNet classes.
+But, our RelTR-based model can classify human emotions, age, races based on deepface and also various breeds based on ImageNet classes.
 More details can be found in our brief [paper](https://github.com/KBH00/Deeper_RelTR/blob/main/demo/paper.pdf).
 
 
