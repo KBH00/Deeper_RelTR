@@ -35,7 +35,7 @@ conda activate drm
 ```
 # install packages
 # for windows
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121conda install matplotlib
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 
 # for linux
 pip3 install torch torchvision torchaudio
