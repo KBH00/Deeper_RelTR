@@ -1,6 +1,6 @@
 # Deeper_RelTR
 
-Part of [LLMETA](https://github.com/orgs/sw24-11/repositories) project, we implement Relation Transformer which can classify even deeper.
+Part of [LLMETA](https://github.com/sw24-11) project, we implement Relation Transformer which can classify even deeper.
 LLMETA project is for metadata extraction from text (research paper), also in image too.
 But, as you can see, we didn't extract any metadata like file size or things like that we normally know about.
 
