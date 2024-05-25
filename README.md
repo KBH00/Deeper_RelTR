@@ -1,11 +1,11 @@
 # Deeper_RelTR
 
-Part of [LLMETA](https://github.com/orgs/sw24-11/repositories) project, we implement Relation Transformer which can classify even deeper.
+Part of [LLMETA](https://github.com/sw24-11) project, we implement Relation Transformer which can classify even deeper.
 LLMETA project is for metadata extraction from text (research paper), also in image too.
 But, as you can see, we didn't extract any metadata like file size or things like that we normally know about.
 
 We propose a new metadata for image as scene graph, which can use various research field.
-But, our RelTR-based model can classify human emotions, age, races and also various breeds based on ImageNet classes.
+But, our RelTR-based model can classify human emotions, age, races based on deepface and also various breeds based on ImageNet classes.
 More details can be found in our brief [paper](https://github.com/KBH00/Deeper_RelTR/blob/main/demo/paper.pdf).
 
 
@@ -35,7 +35,7 @@ conda activate drm
 ```
 # install packages
 # for windows
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121conda install matplotlib
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 
 # for linux
 pip3 install torch torchvision torchaudio
