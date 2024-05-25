@@ -3,7 +3,7 @@
 import argparse
 import cv2
 from deepface import DeepFace
-from classes import * 
+from class_processing.classes import * 
 from PIL import Image
 import matplotlib.pyplot as plt
 
