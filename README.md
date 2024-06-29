@@ -8,6 +8,7 @@ We propose a new metadata for image as scene graph, which can use various resear
 But, our RelTR-based model can classify human emotions, age, races based on deepface and also various breeds based on ImageNet classes.
 More details can be found in our brief [paper](https://github.com/KBH00/Deeper_RelTR/blob/main/demo/paper.pdf).
 
+[2024/6/29] Our paper was selected as to best paper award in KICS
 
 <p align="center">
   <img src="demo/network_deeper.png">
